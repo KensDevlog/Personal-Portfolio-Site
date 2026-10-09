@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Home from './components/Home'
+import Home from './components/Home.1'
 import Projects from './components/Projects'
 import About from './components/About'
 import Experience from './components/Experience'
