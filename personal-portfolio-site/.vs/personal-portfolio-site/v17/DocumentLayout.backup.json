@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\ProjectOverlay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\ProjectOverlay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\csharp.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\csharp.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\projects.js.bak||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\projects.js.bak||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -27,24 +47,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Experience.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\About.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\HorizontalButtonList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\HorizontalButtonList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\HorizontalButtonList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\HorizontalButtonList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\ProjectOverlay.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -73,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Projects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Projects.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\subcomponents\\ProjectOverlay.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ExperienceCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -115,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\linkedin.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\csharp.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\csharp.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -134,24 +134,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "projects.js.bak",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\projects.js.bak",
               "RelativeDocumentMoniker": "src\\data\\projects.js.bak",
               "ToolTip": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\projects.js.bak",
               "RelativeToolTip": "src\\data\\projects.js.bak",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-11-07T19:21:48.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "HorizontalButtonList.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\HorizontalButtonList.css",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\HorizontalButtonList.css",
@@ -163,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Home.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Home.css",
               "RelativeDocumentMoniker": "src\\components\\Home.css",
@@ -175,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Contact.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Contact.css",
               "RelativeDocumentMoniker": "src\\components\\Contact.css",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "socials.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\socials.js",
               "RelativeDocumentMoniker": "src\\data\\socials.js",
@@ -199,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 2,
               "Title": "csharp.svg",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\csharp.svg",
               "RelativeDocumentMoniker": "src\\assets\\csharp.svg",
@@ -207,11 +207,12 @@
               "RelativeToolTip": "src\\assets\\csharp.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABIAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2026-11-07T07:58:19.706Z"
+              "WhenOpened": "2026-11-07T07:58:19.706Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "react.svg",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\react.svg",
               "RelativeDocumentMoniker": "src\\assets\\react.svg",
@@ -223,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Experience.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Experience.css",
               "RelativeDocumentMoniker": "src\\components\\Experience.css",
@@ -235,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ExperienceCard.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ExperienceCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\ExperienceCard.jsx",
@@ -247,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "experience.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\experience.js",
               "RelativeDocumentMoniker": "src\\data\\experience.js",
@@ -259,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "techIcons.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\techIcons.js",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\techIcons.js",
@@ -271,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "About.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\About.css",
               "RelativeDocumentMoniker": "src\\components\\About.css",
@@ -283,19 +284,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
               "Title": "ProjectOverlay.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.css",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\ProjectOverlay.css",
               "ToolTip": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.css",
               "RelativeToolTip": "src\\components\\subcomponents\\ProjectOverlay.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-07T07:34:51.344Z"
+              "WhenOpened": "2026-11-07T07:34:51.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ProjectOverlay.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectOverlay.jsx",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\ProjectOverlay.jsx",
@@ -303,11 +305,12 @@
               "RelativeToolTip": "src\\components\\subcomponents\\ProjectOverlay.jsx",
               "ViewState": "AgIAADkAAAAAAAAAAAAhwGEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-11-07T07:34:34.288Z"
+              "WhenOpened": "2026-11-07T07:34:34.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Projects.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Projects.css",
               "RelativeDocumentMoniker": "src\\components\\Projects.css",
@@ -319,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "projects.js",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\data\\projects.js",
               "RelativeDocumentMoniker": "src\\data\\projects.js",
@@ -331,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProjectCard.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\ProjectCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\ProjectCard.jsx",
@@ -343,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HorizontalButtonList.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\subcomponents\\HorizontalButtonList.jsx",
               "RelativeDocumentMoniker": "src\\components\\subcomponents\\HorizontalButtonList.jsx",
@@ -355,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -367,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Home.jsx",
               "RelativeDocumentMoniker": "src\\components\\Home.jsx",
@@ -379,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "linkedin.svg",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\linkedin.svg",
               "RelativeDocumentMoniker": "src\\assets\\linkedin.svg",
@@ -391,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "vite.svg",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\assets\\vite.svg",
               "RelativeDocumentMoniker": "src\\assets\\vite.svg",
@@ -427,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
@@ -439,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -451,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Contact.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Contact.jsx",
               "RelativeDocumentMoniker": "src\\components\\Contact.jsx",
@@ -459,11 +462,12 @@
               "RelativeToolTip": "src\\components\\Contact.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-22T21:57:09.103Z"
+              "WhenOpened": "2026-07-22T21:57:09.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Experience.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Experience.jsx",
               "RelativeDocumentMoniker": "src\\components\\Experience.jsx",
@@ -475,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Projects.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\Projects.jsx",
               "RelativeDocumentMoniker": "src\\components\\Projects.jsx",
@@ -487,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "About.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\components\\About.jsx",
               "RelativeDocumentMoniker": "src\\components\\About.jsx",
@@ -495,11 +499,12 @@
               "RelativeToolTip": "src\\components\\About.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-07-22T21:56:36.183Z"
+              "WhenOpened": "2026-07-22T21:56:36.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\Public\\Repos\\Personal-Portfolio-Site\\personal-portfolio-site\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
