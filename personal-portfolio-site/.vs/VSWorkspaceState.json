@@ -3,9 +3,9 @@
     "",
     "\\src",
     "\\src\\assets",
+    "\\src\\assets\\about",
     "\\src\\components",
     "\\src\\components\\subcomponents"
   ],
-  "SelectedNode": "\\vite.config.js",
   "PreviewInSolutionExplorer": false
 }
