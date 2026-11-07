@@ -108,7 +108,6 @@
 
 .overlay__section {
     display: flow-root; 
-    contains floated images so they never leak into the next section */
     margin-bottom: 36px;
 }
 

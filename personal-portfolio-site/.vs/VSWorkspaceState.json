@@ -3,7 +3,9 @@
     "",
     "\\src",
     "\\src\\assets",
-    "\\src\\assets\\projects"
+    "\\src\\components",
+    "\\src\\components\\subcomponents"
   ],
+  "SelectedNode": "\\src\\components\\subcomponents\\ProjectOverlay.css",
   "PreviewInSolutionExplorer": false
 }
