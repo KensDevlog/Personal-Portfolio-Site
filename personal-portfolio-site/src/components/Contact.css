@@ -1,0 +1,68 @@
+.contact {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center; 
+    gap: 32px clamp(32px, 6vw, 128px); 
+    margin-top: auto;
+    padding: 48px clamp(24px, 6vw, 64px);
+    background: #d9d9d9;
+    color: #111;
+    text-align: left;
+}
+
+.contact__name {
+    margin: 0;
+    font-size: clamp(40px, 7vw, 80px);
+    font-weight: 800;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.contact__info {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.contact__heading {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+}
+
+.contact__email {
+    color: inherit;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+    .contact__email:hover {
+        text-decoration: underline;
+    }
+
+.contact__links {
+    display: flex;
+    gap: 24px;
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+    .contact__links a {
+        display: inline-flex;
+        color: #111; 
+        transition: transform 0.2s ease;
+    }
+
+        .contact__links a:hover,
+        .contact__links a:focus-visible {
+            transform: scale(1.15);
+        }
+
+    .contact__links svg {
+        width: 36px;
+        height: 36px;
+        flex-shrink: 0;
+    }

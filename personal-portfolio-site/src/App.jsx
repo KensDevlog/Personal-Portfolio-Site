@@ -3,7 +3,6 @@ import Projects from './components/Projects'
 import About from './components/About'
 import Experience from './components/Experience'
 import Contact from './components/Contact'
-import './App.css'
 
 function App() {
     return (
@@ -13,8 +12,6 @@ function App() {
             <About />
             <Experience />
             <Contact />
-
-            <section id="spacer"></section>
         </>
     )
 }

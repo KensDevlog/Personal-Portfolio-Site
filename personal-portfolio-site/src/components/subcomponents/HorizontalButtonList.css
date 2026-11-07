@@ -1,0 +1,33 @@
+.social-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: clamp(18px, 3vw, 28px);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+    .social-list a {
+        display: inline-flex;
+        color: #fff; 
+        transition: transform 0.2s ease;
+    }
+
+        .social-list a:hover,
+        .social-list a:focus-visible {
+            transform: scale(1.15);
+        }
+
+        .social-list a:focus-visible {
+            outline: 2px solid #fff;
+            outline-offset: 4px;
+            border-radius: 4px;
+        }
+
+    .social-list svg {
+        width: clamp(30px, 4vw, 40px); 
+        height: clamp(30px, 4vw, 40px);
+        flex-shrink: 0;
+    }

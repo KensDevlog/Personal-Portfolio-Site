@@ -1,0 +1,221 @@
+.overlay {
+    --overlay-top: 0px;
+    position: fixed;
+    inset: var(--overlay-top) 0 0 0;
+    z-index: 100;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr); /* add */
+    grid-template-rows: minmax(0, 1fr); /* add: row can't grow past the overlay */
+    place-items: center;
+    padding: 24px;
+    background: rgba(0, 0, 0, 0.6);
+    animation: overlay-fade 0.2s ease;
+}
+
+@keyframes overlay-fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.overlay__card {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: min(1000px, 100%);
+    height: min(720px, 100%);
+    padding: 12px;
+    border-radius: 16px;
+    background: #d9d9d9;
+    color: #111;
+    text-align: left;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    outline: none;
+}
+
+.overlay__header {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 12px 24px;
+    border-radius: 12px;
+    background: #b0b0b0;
+}
+
+.overlay__title {
+    margin: 0;
+    font-size: clamp(28px, 5vw, 56px);
+    font-weight: 800;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.overlay__links {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+    .overlay__links a {
+        display: inline-flex;
+        color: #111;
+        transition: transform 0.2s ease;
+    }
+
+        .overlay__links a:hover,
+        .overlay__links a:focus-visible {
+            transform: scale(1.15);
+        }
+
+.overlay__close {
+    margin-left: auto;
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    color: #111;
+    font-size: 32px;
+    line-height: 1;
+    cursor: pointer;
+}
+
+    .overlay__close:hover {
+        background: rgba(0, 0, 0, 0.12);
+    }
+
+.overlay__content {
+    flex: 1;
+    min-height: 0; 
+    display: flex;
+    gap: 16px;
+    padding: 0 8px;
+}
+
+.overlay__body {
+    position: relative; 
+    flex: 1;
+    min-width: 0;
+    overflow-y: auto;
+    padding-right: 20px;
+    padding-bottom: 30vh; 
+}
+
+.overlay__section {
+    display: flow-root; 
+    contains floated images so they never leak into the next section */
+    margin-bottom: 36px;
+}
+
+    .overlay__section h3 {
+        margin: 0 0 8px;
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .overlay__section p {
+        margin: 0 0 12px;
+        line-height: 1.6;
+    }
+
+.overlay-figure {
+    max-width: 55%;
+    margin: 4px 0 12px;
+}
+
+.overlay-figure--left {
+    float: left;
+    margin-right: 20px;
+}
+
+.overlay-figure--right {
+    float: right;
+    margin-left: 20px;
+}
+
+.overlay-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.overlay-figure figcaption {
+    margin-top: 6px;
+    font-size: 13px;
+    color: #444;
+}
+
+.overlay__download {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 999px;
+    background: #fa5c5c;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.overlay__nav {
+    flex: 0 0 190px;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+    .overlay__nav button {
+        padding: 8px 12px;
+        border: none;
+        border-radius: 6px;
+        background: #777;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 700;
+        text-align: left;
+        cursor: pointer;
+        transition: background 0.2s ease;
+    }
+
+        .overlay__nav button:hover {
+            background: #555;
+        }
+
+        .overlay__nav button[aria-current='true'] {
+            background: #222;
+        }
+
+@media (max-width: 720px) {
+    .overlay {
+        padding: 8px;
+    }
+
+    .overlay__content {
+        flex-direction: column;
+        padding: 0;
+    }
+
+    .overlay__nav {
+        order: -1;
+        flex: 0 0 auto;
+        flex-direction: row;
+        align-self: stretch;
+        overflow-x: auto;
+    }
+
+        .overlay__nav button {
+            white-space: nowrap;
+        }
+
+    .overlay-figure {
+        float: none !important;
+        width: 100% !important;
+        max-width: 100%;
+        margin: 0 0 12px;
+    }
+}

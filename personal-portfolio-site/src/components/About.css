@@ -1,0 +1,56 @@
+#about {
+    --photo-size: clamp(240px, 32vw, 360px);
+    --overlap: 70px; 
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.about__bio {
+    position: relative;
+    z-index: 1;
+    width: min(720px, 100%);
+    margin: calc(var(--overlap) * -1) 0 0;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.6;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9), 0 0 12px rgba(0, 0, 0, 0.6);
+}
+
+.about__name {
+    margin: 0 0 24px;
+    font-size: clamp(20px, 2.5vw, 28px);
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.about__roles {
+    max-width: 900px;
+    margin: 0 0 40px;
+    padding: 0;
+    list-style: none;
+    font-size: clamp(26px, 4.5vw, 52px);
+    font-weight: 800;
+    line-height: 1.15;
+    text-transform: uppercase;
+}
+
+    .about__roles li {
+        display: inline;
+    }
+
+        .about__roles li:not(:last-child)::after {
+            content: '|';
+            margin: 0 0.35em;
+        }
+
+.about__photo {
+    width: var(--photo-size);
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+}

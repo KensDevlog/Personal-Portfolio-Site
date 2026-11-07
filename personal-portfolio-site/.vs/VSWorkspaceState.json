@@ -3,9 +3,7 @@
     "",
     "\\src",
     "\\src\\assets",
-    "\\src\\components",
-    "\\src\\components\\subcomponents"
+    "\\src\\assets\\projects"
   ],
-  "SelectedNode": "\\src\\App.jsx",
   "PreviewInSolutionExplorer": false
 }
